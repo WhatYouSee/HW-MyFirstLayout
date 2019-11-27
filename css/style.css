@@ -5,7 +5,7 @@ body {
 }
 h1, h3, a {
   font-family: Roboto Slab;
-
+  text-shadow: 3px 3px 0px rgba(190, 190, 190, 0.5);
 }
 
 li, p {
@@ -76,6 +76,7 @@ li, p {
 
 
 .about {
+  border: 5px solid whitesmoke;
   border-radius: 25px;
   padding: 20px;
   margin: 20px;
@@ -86,6 +87,7 @@ li, p {
 }
 
 .skills {
+  border: 5px solid whitesmoke;
   border-radius: 25px;
   padding: 20px;
   margin: 20px;
